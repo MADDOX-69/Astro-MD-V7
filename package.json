@@ -11,14 +11,14 @@
    },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/vihangayt0/Astro-MD-V6.git"
+"url": "git+https://github.com/MADDOX-69.git"
 },
 "keywords": [
 "whatsapp"
 ],
-"author": "VihangaYT",
-"developer": "VihangaYT",
-"homepage": "https://github.com/vihangayt0/Astro-MD-V6",
+"author": "Deepak",
+"developer": "Deepak",
+"homepage": "https://github.com/MADDOX-69",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
 "pino": "^7.0.5",
